@@ -1,0 +1,17 @@
+Egs:
+    ip = str()
+    Eg :    #ip = str(255.255.255.0)
+    port = int()
+    Eg :    #port = int(389)
+    choice = str()
+    Eg :    #choice = str(y/n) (UDP or Not)
+    times = int()
+    Eg :   #times = int(10) (Time per attack)
+    threads = int()
+    Eg :    #threads = int(10) (Threads)
+
+[1] : IP, Target IP goes in 'ip = str()'
+[2] : Port, Target Port goes in 'port = int()'
+[3] : UDP, UDP or not, y/n, it goes in 'choice = str()'
+[4] : Times, Time between attacks, it goes in 'times = int()'
+[5] : Threads, Threads allocated to the Attact, goes in 'thrads = int()'
