@@ -14,4 +14,4 @@ Egs:
 [2] : Port, Target Port goes in 'port = int()'
 [3] : UDP, UDP or not, y/n, it goes in 'choice = str()'
 [4] : Times, Time between attacks, it goes in 'times = int()'
-[5] : Threads, Threads allocated to the Attact, goes in 'thrads = int()'
+[5] : Threads, Threads allocated to the Attact, goes in 'threads = int()'
