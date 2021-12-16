@@ -1,8 +1,19 @@
 import random
 import socket
 import threading
+import string as str
 
-Log = 'Log'
+lower = str.ascii_lowercase
+higher = str.ascii_uppercase
+numbers = str.digits
+others = str.punctuation
+
+file = lower + higher + numbers
+
+NameFile = r.sample(file, 16)
+FileName = "".join(NameFile)
+
+Log = FileName
 
 ip = str()
 #ip = str(255.255.255.0)
@@ -53,8 +64,19 @@ def Replicate():
 import random
 import socket
 import threading
+import string as str
 
-Log = 'Log'
+lower = str.ascii_lowercase
+higher = str.ascii_uppercase
+numbers = str.digits
+others = str.punctuation
+
+file = lower + higher + numbers
+
+NameFile = r.sample(file, 16)
+FileName = "".join(NameFile)
+
+Log = FileName
 
 ip = str()
 port = int()
@@ -99,8 +121,19 @@ def Replicate():
 import random
 import socket
 import threading
+import string as str
 
-Log = 'Log'
+lower = str.ascii_lowercase
+higher = str.ascii_uppercase
+numbers = str.digits
+others = str.punctuation
+
+file = lower + higher + numbers
+
+NameFile = r.sample(file, 16)
+FileName = "".join(NameFile)
+
+Log = FileName
 
 ip = str()
 port = int()
