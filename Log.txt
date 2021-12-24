@@ -1,0 +1,1285 @@
+
+Configuration IP de Windows
+
+    dracula-theme.gallery.vsassets.io
+    ----------------------------------------
+    Nom d'enregistrement. : dracula-theme.gallery.vsassets.io
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2041
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 13.107.6.175
+
+
+    match.adsrvr.org
+    ----------------------------------------
+    Nom d'enregistrement. : match.adsrvr.org
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 6666
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 35.71.131.137
+
+
+    Nom d'enregistrement. : match.adsrvr.org
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 6666
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 15.197.193.217
+
+
+    Nom d'enregistrement. : match.adsrvr.org
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 6666
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 3.33.220.150
+
+
+    Nom d'enregistrement. : match.adsrvr.org
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 6666
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 52.223.40.198
+
+
+    icrawl.gallery.vsassets.io
+    ----------------------------------------
+    Nom d'enregistrement. : icrawl.gallery.vsassets.io
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2030
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 13.107.6.175
+
+
+    coenraads.gallery.vsassets.io
+    ----------------------------------------
+    Nom d'enregistrement. : coenraads.gallery.vsassets.io
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1969
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 13.107.6.175
+
+
+    adservice.google.com
+    ----------------------------------------
+    Nom d'enregistrement. : adservice.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 25
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.179.66
+
+
+    marketplace.visualstudio.com
+    ----------------------------------------
+    Nom d'enregistrement. : marketplace.visualstudio.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 20
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 13.107.42.18
+
+
+    ocsp.digicert.com
+    ----------------------------------------
+    Nom d'enregistrement. : ocsp.digicert.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 723
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : cs9.wac.phicdn.net
+
+
+    Nom d'enregistrement. : cs9.wac.phicdn.net
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 723
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 93.184.220.29
+
+
+    ota.nvidia.com
+    ----------------------------------------
+    Nom d'enregistrement. : ota.nvidia.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 469
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : cs801.adn.phicdn.net
+
+
+    Nom d'enregistrement. : cs801.adn.phicdn.net
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 469
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 152.195.53.224
+
+
+    user-images.githubusercontent.com
+    ----------------------------------------
+    Nom d'enregistrement. : user-images.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2437
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.109.133
+
+
+    Nom d'enregistrement. : user-images.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2437
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.110.133
+
+
+    Nom d'enregistrement. : user-images.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2437
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.111.133
+
+
+    Nom d'enregistrement. : user-images.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2437
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.108.133
+
+
+    assets-cdn.github.com
+    ----------------------------------------
+    Nom d'enregistrement. : assets-cdn.github.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 351
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : github.github.io
+
+
+    Nom d'enregistrement. : github.github.io
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 351
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.110.153
+
+
+    Nom d'enregistrement. : github.github.io
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 351
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.111.153
+
+
+    Nom d'enregistrement. : github.github.io
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 351
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.108.153
+
+
+    Nom d'enregistrement. : github.github.io
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 351
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.109.153
+
+
+    sentry.io
+    ----------------------------------------
+    Nom d'enregistrement. : sentry.io
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 755
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 35.188.42.15
+
+
+    avatars.githubusercontent.com
+    ----------------------------------------
+    Nom d'enregistrement. : avatars.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2213
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.108.133
+
+
+    Nom d'enregistrement. : avatars.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2213
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.109.133
+
+
+    Nom d'enregistrement. : avatars.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2213
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.110.133
+
+
+    Nom d'enregistrement. : avatars.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2213
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.111.133
+
+
+    cm6-ams1.cm.steampowered.com
+    ----------------------------------------
+    Nom d'enregistrement. : cm6-ams1.cm.steampowered.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 7575
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 155.133.248.39
+
+
+    travis-ci.org
+    ----------------------------------------
+    Nom d'enregistrement. : travis-ci.org
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1928
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 34.74.152.26
+
+
+    github.githubassets.com
+    ----------------------------------------
+    Nom d'enregistrement. : github.githubassets.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2484
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.109.154
+
+
+    Nom d'enregistrement. : github.githubassets.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2484
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.110.154
+
+
+    Nom d'enregistrement. : github.githubassets.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2484
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.111.154
+
+
+    Nom d'enregistrement. : github.githubassets.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2484
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.108.154
+
+
+    miguelsolorio.gallery.vsassets.io
+    ----------------------------------------
+    Nom d'enregistrement. : miguelsolorio.gallery.vsassets.io
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2067
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 13.107.6.175
+
+
+    slevesque.gallery.vsassets.io
+    ----------------------------------------
+    Nom d'enregistrement. : slevesque.gallery.vsassets.io
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1949
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 13.107.6.175
+
+
+    browser.sentry-cdn.com
+    ----------------------------------------
+    Nom d'enregistrement. : browser.sentry-cdn.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 26001
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 151.101.2.217
+
+
+    Nom d'enregistrement. : browser.sentry-cdn.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 26001
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 151.101.66.217
+
+
+    Nom d'enregistrement. : browser.sentry-cdn.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 26001
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 151.101.130.217
+
+
+    Nom d'enregistrement. : browser.sentry-cdn.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 26001
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 151.101.194.217
+
+
+    cache7-fra1.steamcontent.com
+    ----------------------------------------
+    Nom d'enregistrement. : cache7-fra1.steamcontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1658
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 162.254.197.4
+
+
+    www.google.com
+    ----------------------------------------
+    Nom d'enregistrement. : www.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 216.58.198.196
+
+
+    ms-toolsai.gallery.vsassets.io
+    ----------------------------------------
+    Nom d'enregistrement. : ms-toolsai.gallery.vsassets.io
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2105
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 13.107.6.175
+
+
+    raw.githubusercontent.com
+    ----------------------------------------
+    Nom d'enregistrement. : raw.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 381
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.109.133
+
+
+    Nom d'enregistrement. : raw.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 381
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.110.133
+
+
+    Nom d'enregistrement. : raw.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 381
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.111.133
+
+
+    Nom d'enregistrement. : raw.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 381
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.108.133
+
+
+    www.google-analytics.com
+    ----------------------------------------
+    Nom d'enregistrement. : www.google-analytics.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 46
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : www-google-analytics.l.google.com
+
+
+    Nom d'enregistrement. : www-google-analytics.l.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 46
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.178.142
+
+
+    akamud.gallery.vsassets.io
+    ----------------------------------------
+    Nom d'enregistrement. : akamud.gallery.vsassets.io
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1920
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 13.107.6.175
+
+
+    vscodeexperiments.azureedge.net
+    ----------------------------------------
+    Nom d'enregistrement. : vscodeexperiments.azureedge.net
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 134
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : vscodeexperiments.ec.azureedge.net
+
+
+    Nom d'enregistrement. : vscodeexperiments.ec.azureedge.net
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 134
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : cs9.wpc.v0cdn.net
+
+
+    Nom d'enregistrement. : cs9.wpc.v0cdn.net
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 134
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 152.199.19.161
+
+
+    cache1-mad1.steamcontent.com
+    ----------------------------------------
+    Nom d'enregistrement. : cache1-mad1.steamcontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2005
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 155.133.246.12
+
+
+    cache4-ams1.steamcontent.com
+    ----------------------------------------
+    Nom d'enregistrement. : cache4-ams1.steamcontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 6033
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 155.133.248.15
+
+
+    objects.githubusercontent.com
+    ----------------------------------------
+    Nom d'enregistrement. : objects.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 968
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.111.133
+
+
+    Nom d'enregistrement. : objects.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 968
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.108.133
+
+
+    Nom d'enregistrement. : objects.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 968
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.109.133
+
+
+    Nom d'enregistrement. : objects.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 968
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.110.133
+
+
+    vortex.data.microsoft.com
+    ----------------------------------------
+    Nom d'enregistrement. : vortex.data.microsoft.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 40
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : asimov.vortex.data.trafficmanager.net
+
+
+    Nom d'enregistrement. : asimov.vortex.data.trafficmanager.net
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 40
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 40.77.226.250
+
+
+    vortex.data.microsoft.com
+    ----------------------------------------
+    Nom d'enregistrement. : vortex.data.microsoft.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 40
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : asimov.vortex.data.trafficmanager.net
+
+
+    Nom d'enregistrement. : asimov.vortex.data.trafficmanager.net
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 40
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 40.77.226.250
+
+
+    ms-python.gallery.vsassets.io
+    ----------------------------------------
+    Nom d'enregistrement. : ms-python.gallery.vsassets.io
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2105
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 13.107.6.175
+
+
+    cache5-fra1.steamcontent.com
+    ----------------------------------------
+    Nom d'enregistrement. : cache5-fra1.steamcontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 951
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 162.254.197.3
+
+
+    cm2-fra1.cm.steampowered.com
+    ----------------------------------------
+    Nom d'enregistrement. : cm2-fra1.cm.steampowered.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 5608
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 162.254.197.54
+
+
+    default.exp-tas.com
+    ----------------------------------------
+    Nom d'enregistrement. : default.exp-tas.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 188
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : deault-exp-tas-com.e-0014.e-msedge.net
+
+
+    Nom d'enregistrement. : deault-exp-tas-com.e-0014.e-msedge.net
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 188
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : e-0014.dc-msedge.net
+
+
+    Nom d'enregistrement. : e-0014.dc-msedge.net
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 188
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 13.107.13.93
+
+
+    default.exp-tas.com
+    ----------------------------------------
+    Nom d'enregistrement. : default.exp-tas.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 188
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : deault-exp-tas-com.e-0014.e-msedge.net
+
+
+    Nom d'enregistrement. : deault-exp-tas-com.e-0014.e-msedge.net
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 188
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : e-0014.dc-msedge.net
+
+
+    Nom d'enregistrement. : e-0014.dc-msedge.net
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 188
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 13.107.13.93
+
+
+    otbs.azurewebsites.net
+    ----------------------------------------
+    Nom d'enregistrement. : otbs.azurewebsites.net
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 3
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : waws-prod-sn1-001.sip.azurewebsites.windows.net
+
+
+    Nom d'enregistrement. : waws-prod-sn1-001.sip.azurewebsites.windows.net
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 3
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 104.215.78.13
+
+
+    2.0.2.89.in-addr.arpa
+    ----------------------------------------
+    Nom d'enregistrement. : 2.0.2.89.in-addr.arpa
+    Type d'enregistrement : 12
+    Dur‚e de vie  . . . . : 39660
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement PTR. . : ns2.numericable.net
+
+
+    ritwickdey.gallery.vsassets.io
+    ----------------------------------------
+    Nom d'enregistrement. : ritwickdey.gallery.vsassets.io
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2086
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 13.107.6.175
+
+
+    aaron-bond.gallery.vsassets.io
+    ----------------------------------------
+    Nom d'enregistrement. : aaron-bond.gallery.vsassets.io
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1959
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 13.107.6.175
+
+
+    cm2-mad1.cm.steampowered.com
+    ----------------------------------------
+    Nom d'enregistrement. : cm2-mad1.cm.steampowered.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 3707
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 155.133.246.69
+
+
+    cm1-par1.cm.steampowered.com
+    ----------------------------------------
+    Nom d'enregistrement. : cm1-par1.cm.steampowered.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 4589
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.25.182.76
+
+
+    cm4-mad1.cm.steampowered.com
+    ----------------------------------------
+    Nom d'enregistrement. : cm4-mad1.cm.steampowered.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 7429
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 155.133.246.35
+
+
+    play.google.com
+    ----------------------------------------
+    Nom d'enregistrement. : play.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 8
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 216.58.204.110
+
+
+    pypi.org
+    ----------------------------------------
+    Nom d'enregistrement. : pypi.org
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 40135
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 151.101.0.223
+
+
+    Nom d'enregistrement. : pypi.org
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 40135
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 151.101.192.223
+
+
+    Nom d'enregistrement. : pypi.org
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 40135
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 151.101.64.223
+
+
+    Nom d'enregistrement. : pypi.org
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 40135
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 151.101.128.223
+
+
+    education.github.com
+    ----------------------------------------
+    Nom d'enregistrement. : education.github.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 1
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : glb-db52c2cf8be544.github.com
+
+
+    Nom d'enregistrement. : glb-db52c2cf8be544.github.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 140.82.114.21
+
+
+    tanmay.gallery.vsassets.io
+    ----------------------------------------
+    Nom d'enregistrement. : tanmay.gallery.vsassets.io
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2025
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 13.107.6.175
+
+
+    www.youtube.com
+    ----------------------------------------
+    Nom d'enregistrement. : www.youtube.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 1
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : youtube-ui.l.google.com
+
+
+    Nom d'enregistrement. : youtube-ui.l.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 216.58.215.46
+
+
+    Nom d'enregistrement. : youtube-ui.l.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 216.58.213.78
+
+
+    Nom d'enregistrement. : youtube-ui.l.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.179.78
+
+
+    Nom d'enregistrement. : youtube-ui.l.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 216.58.198.206
+
+
+    Nom d'enregistrement. : youtube-ui.l.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 216.58.204.110
+
+
+    Nom d'enregistrement. : youtube-ui.l.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 216.58.209.238
+
+
+    Nom d'enregistrement. : youtube-ui.l.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.179.110
+
+
+    Nom d'enregistrement. : youtube-ui.l.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.178.142
+
+
+    Nom d'enregistrement. : youtube-ui.l.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.201.174
+
+
+    Nom d'enregistrement. : youtube-ui.l.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 216.58.201.238
+
+
+    Nom d'enregistrement. : youtube-ui.l.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 216.58.206.238
+
+
+    Nom d'enregistrement. : youtube-ui.l.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 172.217.18.206
+
+
+    Nom d'enregistrement. : youtube-ui.l.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.74.238
+
+
+    Nom d'enregistrement. : youtube-ui.l.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.75.238
+
+
+    Nom d'enregistrement. : youtube-ui.l.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 216.58.214.174
+
+
+    Nom d'enregistrement. : youtube-ui.l.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 172.217.22.142
+
+
+    file-icons.gallery.vsassets.io
+    ----------------------------------------
+    Nom d'enregistrement. : file-icons.gallery.vsassets.io
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2054
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 13.107.6.175
+
+
+    i.ibb.co
+    ----------------------------------------
+    Nom d'enregistrement. : i.ibb.co
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 482
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 51.210.32.132
+
+
+    Nom d'enregistrement. : i.ibb.co
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 482
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 51.210.32.103
+
+
+    Nom d'enregistrement. : i.ibb.co
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 482
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 51.210.3.236
+
+
+    Nom d'enregistrement. : i.ibb.co
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 482
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 51.210.32.106
+
+
+    camo.githubusercontent.com
+    ----------------------------------------
+    Nom d'enregistrement. : camo.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1208
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.110.133
+
+
+    Nom d'enregistrement. : camo.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1208
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.111.133
+
+
+    Nom d'enregistrement. : camo.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1208
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.108.133
+
+
+    Nom d'enregistrement. : camo.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1208
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.109.133
+
+
+    cm1-fra1.cm.steampowered.com
+    ----------------------------------------
+    Nom d'enregistrement. : cm1-fra1.cm.steampowered.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 4887
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 162.254.197.39
+
+
+    endormi.gallery.vsassets.io
+    ----------------------------------------
+    Nom d'enregistrement. : endormi.gallery.vsassets.io
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1895
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 13.107.6.175
+
+
+    equinusocio.gallery.vsassets.io
+    ----------------------------------------
+    Nom d'enregistrement. : equinusocio.gallery.vsassets.io
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1995
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 13.107.6.175
+
+
+    formulahendry.gallery.vsassets.io
+    ----------------------------------------
+    Nom d'enregistrement. : formulahendry.gallery.vsassets.io
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1930
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 13.107.6.175
+
+
+    streetsidesoftware.gallery.vsassets.io
+    ----------------------------------------
+    Nom d'enregistrement. : streetsidesoftware.gallery.vsassets.io
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1980
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 13.107.6.175
+
+
+    1.0.2.89.in-addr.arpa
+    ----------------------------------------
+    Nom d'enregistrement. : 1.0.2.89.in-addr.arpa
+    Type d'enregistrement : 12
+    Dur‚e de vie  . . . . : 25043
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement PTR. . : ns1.numericable.net
+
+
+    api.travis-ci.org
+    ----------------------------------------
+    Nom d'enregistrement. : api.travis-ci.org
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 1929
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : lb-east1-api.travis-ci.org
+
+
+    Nom d'enregistrement. : lb-east1-api.travis-ci.org
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 1929
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : 195.114.237.35.bc.googleusercontent.com
+
+
+    Nom d'enregistrement. : 195.114.237.35.bc.googleusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1929
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 35.237.114.195
+
+
+    avatars2.githubusercontent.com
+    ----------------------------------------
+    Nom d'enregistrement. : avatars2.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 23
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.111.133
+
+
+    Nom d'enregistrement. : avatars2.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 23
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.108.133
+
+
+    Nom d'enregistrement. : avatars2.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 23
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.109.133
+
+
+    Nom d'enregistrement. : avatars2.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 23
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.110.133
+
+
+    vscode.github.com
+    ----------------------------------------
+    Nom d'enregistrement. : vscode.github.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 350
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : github.github.io
+
+
+    Nom d'enregistrement. : github.github.io
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 350
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.109.153
+
+
+    Nom d'enregistrement. : github.github.io
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 350
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.110.153
+
+
+    Nom d'enregistrement. : github.github.io
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 350
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.111.153
+
+
+    Nom d'enregistrement. : github.github.io
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 350
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.108.153
+
+
+    acctcdnvzeuno.azureedge.net
+    ----------------------------------------
+    Nom d'enregistrement. : acctcdnvzeuno.azureedge.net
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 312
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : acctcdnvzeuno.ec.azureedge.net
+
+
+    Nom d'enregistrement. : acctcdnvzeuno.ec.azureedge.net
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 312
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : scdn1efff.wpc.9da5e.alphacdn.net
+
+
+    Nom d'enregistrement. : scdn1efff.wpc.9da5e.alphacdn.net
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 312
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : sni1gl.wpc.alphacdn.net
+
+
+    Nom d'enregistrement. : sni1gl.wpc.alphacdn.net
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 312
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 152.199.21.175
+
+
+    abusaidm.gallery.vsassets.io
+    ----------------------------------------
+    Nom d'enregistrement. : abusaidm.gallery.vsassets.io
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2174
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 13.107.6.175
+
+
+    google.cdn.steampipe.steamcontent.com
+    ----------------------------------------
+    Nom d'enregistrement. : google.cdn.steampipe.steamcontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 3015
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 34.102.245.185
+
+
+    avatars3.githubusercontent.com
+    ----------------------------------------
+    Nom d'enregistrement. : avatars3.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 516
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.109.133
+
+
+    Nom d'enregistrement. : avatars3.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 516
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.111.133
+
+
+    Nom d'enregistrement. : avatars3.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 516
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.110.133
+
+
+    Nom d'enregistrement. : avatars3.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 516
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.108.133
+
+
+    ecmel.gallery.vsassets.io
+    ----------------------------------------
+    Nom d'enregistrement. : ecmel.gallery.vsassets.io
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2175
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 13.107.6.175
+
+
+    bing.com
+    ----------------------------------------
+    Nom d'enregistrement. : bing.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2912
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 13.107.21.200
+
+
+    Nom d'enregistrement. : bing.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2912
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 204.79.197.200
+
+
